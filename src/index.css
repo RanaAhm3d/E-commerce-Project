@@ -1,0 +1,11 @@
+/* Footer.css */
+body {
+    margin-bottom: 60px; /* Adjust based on footer height */
+  }
+  
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
